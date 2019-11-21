@@ -1,0 +1,5 @@
+Hi this is a sample file.
+Adding some content to file.
+More content!
+It is a good day
+Let's learn python.
